@@ -1,6 +1,9 @@
 <img width="1024" height="1024" alt="Gemini_Generated_Image" src="https://github.com/user-attachments/assets/8a7335cb-c8ad-464b-99b1-5a41ef2b1bf2" />
 # 📌 Project Overview
-## This project provides a comprehensive analysis of the sales performance, customer demographics, and operational efficiency of the Shoppers Stop Digital Store. The analysis covers key metrics including peak sales periods, gender-based revenue distribution, geographic performance across India, and channel-wise contribution.
+This project provides a comprehensive analysis of the sales performance, customer demographics, and operational efficiency of the Shoppers Stop Digital Store. The analysis covers key metrics including peak sales periods, gender-based revenue distribution, geographic performance across India, and channel-wise contribution.
+
+# 👥 About the Brand
+Shoppers Stop Digital Store is a premier fashion retail brand in India, offering a diverse catalog from traditional ethnic wear (Sarees, Kurtas) to modern Western apparel.
 
 # 📊 Key Business Insights
 ## 1. Sales Peaks & Performance
@@ -27,5 +30,4 @@ Expansion: High performance in Maharashtra and Karnataka suggests these states a
 
 Inventory: Align stock levels for Ethnic and Western wear ahead of the March peak season to capitalize on the high conversion rates.
 
-# 👥 About the Brand
-Shoppers Stop Digital Store is a premier fashion retail brand in India, offering a diverse catalog from traditional ethnic wear (Sarees, Kurtas) to modern Western apparel.
+
